@@ -65,5 +65,5 @@
 ![GIT](./public/images/git.svg)
 ![REACT](./public/images/react.svg)
 
-## [**Демо**](https://store-func.vercel.app/)
+## [**Демо**](https://chat-sand-three.vercel.app/)
 ![demo](./public/images/demo.jpg)
